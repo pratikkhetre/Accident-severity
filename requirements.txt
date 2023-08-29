@@ -1,6 +1,6 @@
 pandas
 numpy
-Streamlit v1.26.0
+Streamlit
 scikit-learn
 joblib
 matplotlib
